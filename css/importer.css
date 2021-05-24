@@ -1,0 +1,10 @@
+.form-description li {
+    list-style-type: none;
+}
+
+.import-button {
+    width: auto;
+    height: 32px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

@@ -1,11 +1,19 @@
 {
     "name": "infinity-n-beyond",
-    "title": "Infinity & Beyond - Import your D&D Beyond content to Foundry",
-    "description": "A module that wrangles characters, items, spells and monsters from dndbeyond.com and imports it into Foundry.",
-    "authors": {
-        "name": "Florian Peters",
-        "email": "peters.florian@outlook.com"
-    },
+    "title": "Infinity & Beyond",
+    "description": "A module that wrangles items, spells and monsters from JSON files and imports them into Foundry.",
     "version": "0.0.1",
-    "minimumCoreVersion": "0.5.0"
+    "minimumCoreVersion": "0.5.0",
+    "authors": [
+        {
+            "name": "Florian Peters", 
+            "email": "peters.florian@outlook.com",
+            "url": "https://petersflorian.com"
+        }
+    ],
+    "systems": ["dnd5e"],
+    "esmodules": ["./main.js"],
+    "styles": [
+        "./css/importer.css"
+    ]
 }
