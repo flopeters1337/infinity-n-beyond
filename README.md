@@ -1,6 +1,6 @@
 # Infinity & Beyond
 
-A true open-source D&D Beyond data wrangler for Foundry VTT.
+A D&D Beyond data importer for Foundry VTT.
 
 ## Items
 
